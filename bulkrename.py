@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # rprenamer.py
 
-"""This module provides the RP Renamer entry-point script."""
+"""This module provides the Bulk Rename entry-point script."""
 
 from bulk_rename.app import main
 
