@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# rprenamer.py
+# bulkrenamer.py
 
 """This module provides the Bulk Rename entry-point script."""
 
