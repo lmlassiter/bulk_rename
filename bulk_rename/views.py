@@ -20,6 +20,7 @@ FILTERS = ";;".join(
         "GIF Files (*.gif)",
         "Text Files (*.txt)",
         "Python Files (*.py)",
+        "MP4 Files (*.mp4)",
     )
 )
 
